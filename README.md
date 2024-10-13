@@ -15,8 +15,26 @@ A comprehensive bill collection module with features for recurring and daily dep
 - **Database**: MySQL (via XAMPP)
 - **Frontend**: HTML, CSS, JavaScript
 
+## 📸 Screenshots
+
+### Example Screenshot 1
+![Bill Screenshot 1](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/1%20bill.png)
+
+### Example Screenshot 2
+![Bill Screenshot 2](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/2%20bill.png)
+
+### Example Screenshot 3
+![Bill Screenshot 3](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/3%20bill.png)
+
+### Example Screenshot 4
+![Bill Screenshot 4](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/4%20bill.png)
+
+### Example Screenshot 5
+![Bill Screenshot 5](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/5%20bill.png)
+
 ## ⚙️ Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
+   git clone https://github.com/anandhu081142/Bill-Collection-Module.git
+
