@@ -27,7 +27,7 @@ A comprehensive bill collection module with features for recurring and daily dep
 ![Bill Screenshot 3](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/3%20bill.png)
 
 ### Example Screenshot 4
-![Bill Screenshot 4](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/4%20bill.png)
+![Bill Screenshot](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assests/4%20bill.png)
 
 ### Example Screenshot 5
 ![Bill Screenshot 5](https://github.com/anandhu081142/Bill-Collection-Module/blob/main/assets/5%20bill.png)
